@@ -1,0 +1,14 @@
+{
+    "name": "LuisBot",
+    "secretKey": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "LuisBot",
+            "id": "http://localhost:3984/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3984/api/messages"
+        }
+    ]
+}
